@@ -1,0 +1,2 @@
+# bit_cored
+Hello
